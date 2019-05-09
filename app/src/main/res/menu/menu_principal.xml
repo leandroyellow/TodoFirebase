@@ -3,10 +3,12 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
+        android:id="@+id/menuAdcionar"
         android:icon="@drawable/ic_navio"
         android:title="@string/item_1"
         app:showAsAction="always" />
     <item
+        android:id="@+id/menuFavoritos"
         android:icon="@drawable/ic_bicicleta"
         android:title="@string/item_2"
         app:showAsAction="always" />
